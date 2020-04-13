@@ -1,5 +1,4 @@
 def find_min_value(array)
-def find_min_value(array)
   count = 0
   min_value = array[0]
   
